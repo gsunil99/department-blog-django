@@ -1,6 +1,6 @@
 # CS Department Blog Project
 
-![GitHub last commit](https://img.shields.io/github/last-commit/jsuryakt/department-blog-django)  ![GitHub issues](https://img.shields.io/github/issues-raw/jsuryakt/department-blog-django) ![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/jsuryakt/department-blog-django) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/jsuryakt)
+![GitHub last commit](https://img.shields.io/github/last-commit/gsunil99/department-blog-django)  ![GitHub issues](https://img.shields.io/github/issues-raw/gsunil99/department-blog-django) ![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/gsunil99/department-blog-django) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/gsunil99)
 
 Blog project for the department of Computer Science, SJEC.
 
@@ -14,7 +14,7 @@ Project is live at [**CS Blogs.**](https://csdept.pythonanywhere.com)
 
 ## How to run the project!
 ### - Clone the project
-> ``` git clone  "https://github.com/jsuryakt/department-blog-django.git" ```
+> ``` git clone  "https://github.com/gsunil99/department-blog-django.git" ```
 ### - Create a new virtual environment and activate
 > For Windows - (Python must be installed, ofcourse!)
 
@@ -37,7 +37,7 @@ Follow these steps:
 - Fork the project.
 - Clone the repository to your local environment.
 
-    ```$ git clone  "https://github.com/jsuryakt/department-blog-django.git" ```
+    ```$ git clone  "https://github.com/gsunil99/department-blog-django.git" ```
     
 - Make new changes, commit the changes and upload that to your GitHub.
 
